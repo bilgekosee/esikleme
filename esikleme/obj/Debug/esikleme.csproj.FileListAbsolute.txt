@@ -1,0 +1,10 @@
+D:\goruntu_isleme\esikleme\esikleme\bin\Debug\esikleme.exe.config
+D:\goruntu_isleme\esikleme\esikleme\bin\Debug\esikleme.exe
+D:\goruntu_isleme\esikleme\esikleme\bin\Debug\esikleme.pdb
+D:\goruntu_isleme\esikleme\esikleme\obj\Debug\esikleme.csproj.AssemblyReference.cache
+D:\goruntu_isleme\esikleme\esikleme\obj\Debug\esikleme.Form1.resources
+D:\goruntu_isleme\esikleme\esikleme\obj\Debug\esikleme.Properties.Resources.resources
+D:\goruntu_isleme\esikleme\esikleme\obj\Debug\esikleme.csproj.GenerateResource.cache
+D:\goruntu_isleme\esikleme\esikleme\obj\Debug\esikleme.csproj.CoreCompileInputs.cache
+D:\goruntu_isleme\esikleme\esikleme\obj\Debug\esikleme.exe
+D:\goruntu_isleme\esikleme\esikleme\obj\Debug\esikleme.pdb
